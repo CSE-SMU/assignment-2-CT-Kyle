@@ -50,3 +50,9 @@
     transform:translate(-10%,-100%);
 
 }
+.nose {
+    height:6rem;
+    width:3rem;
+    background:rgba(210,180,140 .9);
+}
+
